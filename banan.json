@@ -1,0 +1,24 @@
+{
+  "id": 2,
+  "instruments": [
+    "MLTBMp_EQ",
+    "BLVNl_EQ",
+    "3LTEl_EQ",
+    "VRSl_EQ",
+    "ARONs_EQ",
+    "NSFl_EQ",
+    "TS3Sl_EQ",
+    "VASTl_EQ",
+    "3TSEl_EQ",
+    "3STLl_EQ"
+  ],
+  "metadata": {
+    "contentsLocked": true,
+    "dismissible": false,
+    "localizationKey": "hot",
+    "orderLocked": true,
+    "readableCaption": "Hot",
+    "emoji": "1f525"
+  },
+  "readableCaptionChangeable": false
+}
